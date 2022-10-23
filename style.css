@@ -1,0 +1,74 @@
+h1 {
+    
+    margin: 0 auto 0 auto ;
+    width: 50%;
+    font-family: Delius;
+    font-size: 400%;
+}
+h2{
+    font-family: Alkalami,sans-serif;
+    font-size: 300%;
+}
+h3{
+    font-family: Dekko,sans-serif;
+    font-size: 200%;
+}
+body{
+    margin: 0;
+   text-align: center;
+   background-color: #BCE29E;
+}
+.top-container {
+    
+    background-color: #7895B2;
+    padding-top: 100px;
+    text-align: center;
+}
+.middle-container{
+    background-color: #BCE29E;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.Skills{
+    padding-top: 50px;
+}
+.buttom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.Contact{
+    padding-top: 50px;
+    position: relative;
+}
+.java{
+    position: relative;
+    right: 200px;
+    display: inline-block;
+}
+.css{
+    position: relative;
+    right:100px;
+    display: inline-block;
+}
+.html{
+    position: relative;
+    display: inline-block;
+    left: auto;
+}
+.javas{
+    position: relative;
+    display: inline-block;
+    left: 100px;
+}
+.SQL{
+    position: relative;
+    display: inline-block;
+    left: 200px;
+}
